@@ -4,7 +4,7 @@ using System.Text;
 
 namespace SmartHomeController
 {
-    public class SmartDevice
+    public class SmartDevice 
     {
         // private fields
         private int deviceID;
